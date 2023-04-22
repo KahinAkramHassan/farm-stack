@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development environment files
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+logs/
+*.log
+
+# Dependency directories
+venv/
+env/
+envs/
+ENV/
+env.bak/
+*.egg-info
+dist/
+build/
+*.egg
+
+# MongoDB files and directories
+data/
+db/
+mongod.lock
+mongod.pid
+*.log
+journal/
+
+# React.js files and directories
+node_modules/
+build/
+dist/
+*.env
+*.log
