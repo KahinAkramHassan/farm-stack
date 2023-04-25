@@ -13,8 +13,8 @@ __pycache__/
 .DS_Store
 logs/
 *.log
-.farm-frontend-env/
-.farm-backend-env/
+farm-frontend-env/
+farm-backend-env/
 
 # Dependency directories
 venv/
